@@ -5,7 +5,7 @@ Este es un pequeño programa que busca que los emprendimientos tengan una mejor 
 Algunos requerimentos basicos para ejecutarse:
 - Tener python
 - Tener un lector de python
-¿Que te solicita el programa?
+#¿Que te solicita el programa?
 El programa solicita:
 - Nombre del producto  
 - Precio del producto  
