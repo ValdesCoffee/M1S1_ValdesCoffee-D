@@ -13,9 +13,9 @@ El programa solicita:
 - Cantidad  
 
 Luego calcula el **valor total** con la siguiente operacion
-´´´python3
+```python3
  Total = priceofproduct * productquantity 
-´´´
+```
  y pregunta si el usuario desea continuar ingresando productos.
 
 ---
